@@ -1,0 +1,17 @@
+# Node / general
+node_modules/
+.DS_Store
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+
+# Images built by editors
+Thumbs.db
